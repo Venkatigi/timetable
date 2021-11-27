@@ -1,8 +1,6 @@
 # Experiment_Time_Table
-
 ## AIM
 To Write a html webpage page to display your timetable.
-
 # ALGORITHM
 ### STEP 1
 create a simple table using table tag
@@ -12,7 +10,6 @@ Add header row using th tag
 Add your timetable
 ### STEP 4
 Execute the program
-
 # CODE
 ~~~
 <!DOCTYPE html>
@@ -30,7 +27,6 @@ Execute the program
 <th colspan="5" >Reference Number  :  21003352</th>
 <th align="center" colspan="3" >Name  :  Venkatesh E</th>
 </tr>
-
 <tr>
 <th>DAYS</th>
 <th>1</th>
@@ -76,7 +72,6 @@ Execute the program
 <td align="center">Lunch</td>
 <td colspan="2" align="center">Soft Skills (19EY701/Subramanian S)</td>
 </tr>
-
 </table>
 <h2>Facaulty and Subject :</h2>
 <ol type="1">
@@ -85,9 +80,7 @@ Execute the program
   <li>Web Tech (19AI402/Karthi Govindaraju)</li>
   <li>Mechanics Designing and Modelling (19AI303/Ram G R)</li>
   <li>Mentoring (ECA051-AD/Sridar S)</li>
-  
 </ol>  
-
 </body>
 </html>
 ~~~
@@ -107,7 +100,6 @@ Execute the program
 <th colspan="5" >Reference Number  :  21003352</th>
 <th align="center" colspan="3" >Name  :  Venkatesh E</th>
 </tr>
-
 <tr>
 <th>DAYS</th>
 <th>1</th>
@@ -153,7 +145,6 @@ Execute the program
 <td align="center">Lunch</td>
 <td colspan="2" align="center">Soft Skills (19EY701/Subramanian S)</td>
 </tr>
-
 </table>
 <h2>Facaulty and Subject :</h2>
 <ol type="1">
@@ -162,9 +153,7 @@ Execute the program
   <li>Web Tech (19AI402/Karthi Govindaraju)</li>
   <li>Mechanics Designing and Modelling (19AI303/Ram G R)</li>
   <li>Mentoring (ECA051-AD/Sridar S)</li>
-  
 </ol>  
-
 </body>
 </html>
 
