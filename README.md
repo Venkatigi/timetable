@@ -15,7 +15,6 @@ Execute the program
 <!DOCTYPE html>
 <html>
 <head>
-<title >TIME TABLE</title>
 </head>
 <body>
 <table width=100% border = "10" cellspacing="10" bordercolor="black" bgcolor="grey">
@@ -88,7 +87,6 @@ Execute the program
 <!DOCTYPE html>
 <html>
 <head>
-<title >TIME TABLE</title>
 </head>
 <body>
 <table width=100% border = "10" cellspacing="10" bordercolor="black" bgcolor="grey">
